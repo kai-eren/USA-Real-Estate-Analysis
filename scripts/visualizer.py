@@ -32,10 +32,10 @@ engine = create_engine(f'mysql+mysqlconnector://{user}:{password}@{host}/{databa
 # Loading data and export CSVs 
 # ------------------------------
 df = pd.read_sql("SELECT * FROM listings_clean", engine)
-df.to_csv("listings_clean.csv", index=False)
+df.to_csv('data/listings_clean.csv', index=False)
 
 df_ppsf = pd.read_sql("SELECT * FROM median_ppsf_by_state", engine)
-df_ppsf.to_csv("median_ppsf_by_state.csv", index=False)
+df_ppsf.to_csv('data/median_ppsf_by_state.csv', index=False)
 
 
 # ------------------------------
