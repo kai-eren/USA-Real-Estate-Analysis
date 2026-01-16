@@ -28,5 +28,21 @@ pip install -r requirements.txt
 python scripts/visualizer.py
 ```
 
+## Visualizations
+
+### Pairplot: Price, Beds, and House Size
+![3x3 Visualization](images/3x3 visual.png)
+
+### Median Home Price by State
+![Median Home Price](images/states by median price.png)
+
+### Top 10 States by Price per Square Foot
+![Median Price per Sq Ft](images/states by median sqft.png)
+
+
+
+
+
+
 ## Author
 Kai Eren | MIT License
