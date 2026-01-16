@@ -30,14 +30,14 @@ python scripts/visualizer.py
 
 ## Visualizations
 
-### Pairplot: Price, Beds, and House Size
-![3x3 Visualization](images/3x3 visual.png)
-
 ### Median Home Price by State
-![Median Home Price](images/states by median price.png)
+![Median Home Price](images/states%20by%20median%20price.png)
 
 ### Top 10 States by Price per Square Foot
-![Median Price per Sq Ft](images/states by median sqft.png)
+![Median Price per Sq Ft](images/states%20by%20median%20sqft.png)
+
+### Pairplot: Price, Beds, and House Size
+![3x3 Visualization](images/3x3%20visual.png)
 
 
 
