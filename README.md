@@ -42,6 +42,7 @@ python scripts/visualizer.py
 
 ## Key Insights
 - Median home prices vary widely between states.
+- Positive correlation observed between house size and price, suggesting larger homes tend to command higher prices.
 - Price per square foot highlights regional housing market differences.
 - Relationships between price, size, and number of beds help understand value trends.
 
