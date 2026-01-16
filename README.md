@@ -40,7 +40,10 @@ python scripts/visualizer.py
 ![3x3 Visualization](images/3x3%20visual.png)
 
 
-
+## Key Insights
+- Median home prices vary widely between states.
+- Price per square foot highlights regional housing market differences.
+- Relationships between price, size, and number of beds help understand value trends.
 
 
 
